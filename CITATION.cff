@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "AI Cognitive Preservation Principles"
+message: "If you use this project, please cite it as below."
+authors:
+  - family-names: "Wheat"
+    given-names: "Spencer"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+date-released: 2025-09-02
+version: "1.0.0"
+license: "MIT"
+doi: "10.5281/zenodo.XXXXXXX"   # Replace with actual Zenodo DOI after first release
+url: "https://github.com/spenwheat/ai-cognitive-preservation"
